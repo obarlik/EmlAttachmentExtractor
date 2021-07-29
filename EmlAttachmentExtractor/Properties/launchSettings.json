@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmlAttachmentExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "*.eml"
+    }
+  }
+}
